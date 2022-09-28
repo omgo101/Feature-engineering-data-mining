@@ -5,4 +5,5 @@
 3) csv file( california_housing_test) that will work on for skewness removal <br /> 
 4) pdf file (feature engineering) contain-feature selection,feature extraction,model centric,feature centric,feature engineering example
 <br /> 
+5)Matplotlib_subplot,Skewness,.ipynb is for various visualization <br /> 
 (note:- skewness and kurtosis should be between 0-2 then we can say the distribution is normal)  
